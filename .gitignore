@@ -1,0 +1,7 @@
+# Original source images (not needed for deploy)
+*.jpg
+*.jpeg
+*.mp4
+
+# Except public/ which IS the site
+!public/**
